@@ -14,3 +14,5 @@
 
 #  Navigation 
 `roslaunch kobuki_navigation kobuki_navigation.launch` 
+
+# Note : Run Rviz manually. 
