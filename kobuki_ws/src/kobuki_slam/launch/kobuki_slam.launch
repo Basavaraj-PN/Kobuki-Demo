@@ -1,0 +1,21 @@
+<launch>
+  <!-- Arguments -->
+  <arg name="slam_methods" default="gmapping" doc="slam type [gmapping, cartographer, hector, karto, frontier_exploration]"/>
+  <arg name="configuration_basename" default="kobuki_lds_2d.lua.lua"/>
+  <arg name="open_rviz" default="true"/>
+
+  <!-- kobuki -->
+  <include file="$(find kobuki_bringup)/launch/kobuki_remote.launch">
+  </include>
+
+  <!-- SLAM: Gmapping, Cartographer, Hector, Karto, Frontier_exploration, RTAB-Map -->
+  <include file="$(find kobuki_slam)/launch/kobuki_$(arg slam_methods).launch">
+    <arg name="configuration_basename" value="$(arg configuration_basename)"/>
+  </include>
+
+  <!-- rviz -->
+<!--    <group if="$(arg open_rviz)"> 
+    <node pkg="rviz" type="rviz" name="rviz" required="true"
+          args="-d $(find kobuki_slam)/rviz/kobuki_$(arg slam_methods).rviz"/>
+  </group>  -->
+</launch>

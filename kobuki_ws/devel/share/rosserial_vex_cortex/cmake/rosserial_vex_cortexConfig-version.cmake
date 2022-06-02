@@ -1,0 +1,1 @@
+/home/cero2/kobuki_ws/devel/.private/rosserial_vex_cortex/share/rosserial_vex_cortex/cmake/rosserial_vex_cortexConfig-version.cmake

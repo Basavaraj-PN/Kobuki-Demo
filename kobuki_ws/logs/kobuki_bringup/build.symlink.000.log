@@ -1,0 +1,4 @@
+Symlinking /home/cero2/kobuki_ws/devel/share/kobuki_bringup/cmake/kobuki_bringupConfig.cmake
+Symlinking /home/cero2/kobuki_ws/devel/share/kobuki_bringup/cmake/kobuki_bringupConfig-version.cmake
+Symlinking /home/cero2/kobuki_ws/devel/lib/kobuki_bringup/kobuki_diagnostics
+Symlinking /home/cero2/kobuki_ws/devel/lib/pkgconfig/kobuki_bringup.pc

@@ -1,0 +1,20 @@
+            ~/demo_0622_ws
+############### Hardware Bringup ############################################
+roslaunch rplidar_ros rplidar.launch 
+roslaunch kobuki_node robot_with_tf.launch
+# rosrun tf static_transform_publisr 0 0 0 0 0 0 /base_link /base_scan 0.1
+############################################################################
+
+            ~/kobuki_ws
+##################### mapping ################
+roslaunch kobuki_slam kobuki_slam.launch
+ roslaunch kobuki_keyop keyop.launch
+roslaunch kobuki_slam save_map.launch  
+##############################################
+
+
+            ~/kobuki_ws
+################### Navigation ##################
+roslaunch kobuki_navigation kobuki_navigation.launch 
+##################################################
+

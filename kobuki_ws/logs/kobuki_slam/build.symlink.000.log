@@ -1,0 +1,4 @@
+Symlinking /home/cero2/kobuki_ws/devel/share/kobuki_slam/cmake/kobuki_slamConfig.cmake
+Symlinking /home/cero2/kobuki_ws/devel/share/kobuki_slam/cmake/kobuki_slamConfig-version.cmake
+Symlinking /home/cero2/kobuki_ws/devel/lib/kobuki_slam/flat_world_imu_node
+Symlinking /home/cero2/kobuki_ws/devel/lib/pkgconfig/kobuki_slam.pc
