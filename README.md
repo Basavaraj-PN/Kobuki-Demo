@@ -5,7 +5,7 @@
 
 `roslaunch kobuki_node robot_with_tf.launch`
 
-#  mapping
+#  Mapping
 `roslaunch kobuki_slam kobuki_slam.launch`
 
 `roslaunch kobuki_keyop keyop.launch`
