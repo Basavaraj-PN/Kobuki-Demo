@@ -1,7 +1,7 @@
 # Kobuki-Demo
 
 # Hardware Bringup 
-roslaunch rplidar_ros rplidar.launch 
+`roslaunch rplidar_ros rplidar.launch` 
 roslaunch kobuki_node robot_with_tf.launch
 
 #  mapping
