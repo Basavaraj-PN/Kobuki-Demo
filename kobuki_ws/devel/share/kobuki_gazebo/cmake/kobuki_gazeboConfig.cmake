@@ -1,1 +1,0 @@
-/home/cero2/kobuki_ws/devel/.private/kobuki_gazebo/share/kobuki_gazebo/cmake/kobuki_gazeboConfig.cmake

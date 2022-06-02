@@ -1,1 +1,0 @@
-/home/cero2/kobuki_ws/devel/.private/rosserial_mbed/share/roseus/ros/rosserial_mbed/manifest.l

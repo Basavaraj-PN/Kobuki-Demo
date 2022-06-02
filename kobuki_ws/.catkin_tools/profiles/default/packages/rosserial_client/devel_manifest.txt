@@ -1,6 +1,0 @@
-rosserial/rosserial_client
-/home/cero2/kobuki_ws/devel/.private/rosserial_client/cmake.lock /home/cero2/kobuki_ws/devel/./cmake.lock
-/home/cero2/kobuki_ws/devel/.private/rosserial_client/share/rosserial_client/cmake/rosserial_clientConfig.cmake /home/cero2/kobuki_ws/devel/share/rosserial_client/cmake/rosserial_clientConfig.cmake
-/home/cero2/kobuki_ws/devel/.private/rosserial_client/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake /home/cero2/kobuki_ws/devel/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake
-/home/cero2/kobuki_ws/devel/.private/rosserial_client/lib/python2.7/dist-packages/rosserial_client/__init__.py /home/cero2/kobuki_ws/devel/lib/python2.7/dist-packages/rosserial_client/__init__.py
-/home/cero2/kobuki_ws/devel/.private/rosserial_client/lib/pkgconfig/rosserial_client.pc /home/cero2/kobuki_ws/devel/lib/pkgconfig/rosserial_client.pc

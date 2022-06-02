@@ -1,1 +1,0 @@
-/home/cero2/kobuki_ws/devel/.private/rosserial_msgs/share/roseus/ros/rosserial_msgs/msg/Log.l

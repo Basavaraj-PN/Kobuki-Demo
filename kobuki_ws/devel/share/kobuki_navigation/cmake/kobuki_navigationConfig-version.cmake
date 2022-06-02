@@ -1,1 +1,0 @@
-/home/cero2/kobuki_ws/devel/.private/kobuki_navigation/share/kobuki_navigation/cmake/kobuki_navigationConfig-version.cmake

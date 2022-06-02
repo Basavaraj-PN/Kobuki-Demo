@@ -1,1 +1,0 @@
-/home/cero2/kobuki_ws/devel/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake

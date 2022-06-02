@@ -1,1 +1,0 @@
-/home/cero2/kobuki_ws/devel/.private/pocketsphinx/share/pocketsphinx/cmake/pocketsphinxConfig.cmake

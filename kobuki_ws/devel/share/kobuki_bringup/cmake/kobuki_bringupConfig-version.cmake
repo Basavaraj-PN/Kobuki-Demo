@@ -1,1 +1,0 @@
-/home/cero2/kobuki_ws/devel/.private/kobuki_bringup/share/kobuki_bringup/cmake/kobuki_bringupConfig-version.cmake

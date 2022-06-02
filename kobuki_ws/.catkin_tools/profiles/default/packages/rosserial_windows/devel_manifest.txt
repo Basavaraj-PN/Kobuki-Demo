@@ -1,5 +1,0 @@
-rosserial/rosserial_windows
-/home/cero2/kobuki_ws/devel/.private/rosserial_windows/cmake.lock /home/cero2/kobuki_ws/devel/./cmake.lock
-/home/cero2/kobuki_ws/devel/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake /home/cero2/kobuki_ws/devel/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake
-/home/cero2/kobuki_ws/devel/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake /home/cero2/kobuki_ws/devel/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake
-/home/cero2/kobuki_ws/devel/.private/rosserial_windows/lib/pkgconfig/rosserial_windows.pc /home/cero2/kobuki_ws/devel/lib/pkgconfig/rosserial_windows.pc
