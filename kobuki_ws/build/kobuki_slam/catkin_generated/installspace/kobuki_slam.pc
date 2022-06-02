@@ -1,8 +1,0 @@
-prefix=/home/cero2/kobuki_ws/install
-
-Name: kobuki_slam
-Description: Description of kobuki_slam
-Version: 1.2.6
-Cflags: -I/home/cero2/kobuki_ws/install/include
-Libs: -L/home/cero2/kobuki_ws/install/lib 
-Requires: roscpp sensor_msgs

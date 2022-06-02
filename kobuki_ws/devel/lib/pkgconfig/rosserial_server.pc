@@ -1,1 +1,0 @@
-/home/cero2/kobuki_ws/devel/.private/rosserial_server/lib/pkgconfig/rosserial_server.pc

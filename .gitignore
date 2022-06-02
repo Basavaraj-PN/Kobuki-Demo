@@ -2,5 +2,6 @@
 build/
 bin/
 lib/
+logs/
 *.swp
 *.pyc

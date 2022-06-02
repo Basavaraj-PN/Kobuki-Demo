@@ -1,2 +1,0 @@
-- setup-file:
-    local-name: /home/cero2/kobuki_ws/devel/.private/rosserial_client/setup.sh

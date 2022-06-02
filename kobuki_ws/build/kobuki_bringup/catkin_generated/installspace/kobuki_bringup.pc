@@ -1,8 +1,0 @@
-prefix=/home/cero2/kobuki_ws/install
-
-Name: kobuki_bringup
-Description: Description of kobuki_bringup
-Version: 1.2.6
-Cflags: 
-Libs: -L/home/cero2/kobuki_ws/install/lib 
-Requires: roscpp std_msgs sensor_msgs diagnostic_msgs turtlebot3_msgs

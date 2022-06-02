@@ -1,1 +1,0 @@
-/home/cero2/kobuki_ws/devel/.private/rosserial_msgs/lib/python2.7/dist-packages/rosserial_msgs/__init__.py

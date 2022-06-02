@@ -1,6 +1,0 @@
-devel_space: /home/cero2/kobuki_ws/devel
-install: false
-install_space: /home/cero2/kobuki_ws/install
-profile: default
-source_space: /home/cero2/kobuki_ws/src
-workspace: /home/cero2/kobuki_ws
